@@ -9,6 +9,7 @@ export default function Header() {
   const { data: session, status } = useSession()
   const loading = status === "loading"
 
+console.log(session)
   return (
     <header>
       <noscript>
@@ -25,8 +26,8 @@ export default function Header() {
               <span className={styles.notSignedInText}>
                 You are not signed in
               </span>
-              <a
-                href={`/api/auth/signin`}
+              <button
+              
                 className={styles.buttonPrimary}
                 onClick={(e) => {
                   e.preventDefault()
@@ -34,7 +35,7 @@ export default function Header() {
                 }}
               >
                 Sign in
-              </a>
+              </button>
             </>
           )}
           {session?.user && (
@@ -50,8 +51,7 @@ export default function Header() {
                 <br />
                 <strong>{session.user.email ?? session.user.name}</strong>
               </span>
-              <a
-                href={`/api/auth/signout`}
+              <button
                 className={styles.button}
                 onClick={(e) => {
                   e.preventDefault()
@@ -59,7 +59,7 @@ export default function Header() {
                 }}
               >
                 Sign out
-              </a>
+              </button>
             </>
           )}
         </p>

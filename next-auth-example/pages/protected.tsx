@@ -7,11 +7,14 @@ export default function ProtectedPage() {
   const { data: session } = useSession()
   const [content, setContent] = useState()
 
+  console.log(session)
+
   // Fetch content from protected route
   useEffect(() => {
     const fetchData = async () => {
       const res = await fetch("/api/examples/protected")
       const json = await res.json()
+
       if (json.content) {
         setContent(json.content)
       }

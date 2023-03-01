@@ -8,7 +8,7 @@ import LayoutAuthenticated from '../layouts/Authenticated'
 
 const Index = () => {
   const dispatch = useAppDispatch()
-
+  
   const router = useRouter()
 
   return (
