@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T10:22:38.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WyLi8iGFdPD78ZOxnWjn" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T10:31:17.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="R4jyIEUKy0Z7fFngpFvC" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -103,16 +103,18 @@
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-182" value="Can login because an admin add them to the system" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-440" y="920" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-185" value="Can not communicate between themselves (individually)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-185" value="Can not communicate between themselves (individually in a specific group)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="121" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-195" target="BaSXGq73hNiP6_gF0Rg8-242">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="842.5050000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-195" value="Add users as administrator, manager, member to the group" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="805.63" width="140" height="73.75" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-200" value="Remove, edit users info" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-200" value="Remove user, edit users info" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-600" y="805.63" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-201" value="View User Info" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -176,13 +178,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-242" value="Invited by admin ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="141" y="799.995" width="80" height="80" as="geometry" />
+          <mxGeometry x="141" y="802.505" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-244" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="171" y="879.99" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-245" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161" y="769.99" width="60" height="30" as="geometry" />
+          <mxGeometry x="171" y="769.99" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-250" value="Can communicate between themselves (individually in a specific group)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130.5" y="1020" width="120" height="60" as="geometry" />
