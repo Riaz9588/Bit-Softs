@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T07:22:45.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9Xt-yp1B4yGJqc1j4EG_" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T07:56:23.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="z2vWZQZkXrNOwYEIrg1D" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3247" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -102,29 +102,23 @@
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-157" value="Admin Login Page" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-162" target="BaSXGq73hNiP6_gF0Rg8-164">
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-162" target="BaSXGq73hNiP6_gF0Rg8-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-162" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="700" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-164" target="BaSXGq73hNiP6_gF0Rg8-175">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-164" value="Add managers, members using their information to database" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-173" target="BaSXGq73hNiP6_gF0Rg8-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-173" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Invited by admin&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="900" width="120" height="100" as="geometry" />
+          <mxGeometry x="710" y="780" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-175" target="BaSXGq73hNiP6_gF0Rg8-173">
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-175" target="BaSXGq73hNiP6_gF0Rg8-195">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-175" value="Create group/team" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-175" value="Create group/team (May have multiple group)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-177" target="BaSXGq73hNiP6_gF0Rg8-182">
           <mxGeometry relative="1" as="geometry" />
@@ -132,17 +126,23 @@
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-177" target="BaSXGq73hNiP6_gF0Rg8-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-177" value="managers, members" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="1020" width="120" height="60" as="geometry" />
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-177" value="administrator, managers, members" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BaSXGq73hNiP6_gF0Rg8-182" value="Can login" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="1120" width="120" height="60" as="geometry" />
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-182" value="Can login to specific group by the invitation (team name, credentials)" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="1040" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-185" target="BaSXGq73hNiP6_gF0Rg8-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-185" value="Communicate between them" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BaSXGq73hNiP6_gF0Rg8-195" target="BaSXGq73hNiP6_gF0Rg8-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BaSXGq73hNiP6_gF0Rg8-195" value="Add administrator, managers, members using their information to database and make invite to the specific group" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="782.5" width="130" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
