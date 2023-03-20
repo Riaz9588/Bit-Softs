@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T09:41:00.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Eg92loLJrwdqQeJPTCzy" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T09:41:27.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kVVtMGQYHkIN3ZZS-ib2" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4390" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3366" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-195" value="Add users (administrator, managers, members, no-role) using their information to database" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-60" y="786.25" width="140" height="73.75" as="geometry" />
+          <mxGeometry x="-70" y="805.63" width="140" height="73.75" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-200" value="Remove managers, members from group, Edit their info" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-500" y="810" width="130" height="65" as="geometry" />
