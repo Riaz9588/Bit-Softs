@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T11:46:19.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FZ9wJP3Qsrsd9ZpSpddS" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T11:47:02.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="uyOY26w8qqQHLCvzqgzj" version="21.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3793" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="3509" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-79" value="Provide JWT token" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-69" y="405" width="120" height="60" as="geometry" />
+          <mxGeometry x="-59" y="405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BaSXGq73hNiP6_gF0Rg8-83" value="yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-279" y="440" width="60" height="30" as="geometry" />
